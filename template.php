@@ -8,6 +8,7 @@
 // during an install profile without nuking the world
 // Load some helper functions
 require_once dirname(__FILE__) . '/includes/utils.inc';
+require_once dirname(__FILE__) . '/includes/layout_builder.inc';
 
 // Asset stuff
 define('KALATHEME_BOOTSTRAP_CSS', '//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css');

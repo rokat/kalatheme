@@ -32,3 +32,6 @@ settings[build_subtheme] = 0
 settings[fontawesome] = 1
 
 plugins[panels][styles] = styles
+plugins[panels][layouts] = layouts
+plugins[panels][display_renderers] = display_renderers
+
