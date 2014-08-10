@@ -289,3 +289,9 @@ ul.panels-ipe-linkbar {
 .features-export-list .checkbox-inline input[type="checkbox"] {
   margin-left: 0px;
 }
+
+/* Module Filter Display*/
+#module-filter-show-wrapper .form-checkbox{
+  float:none;
+  margin:2px;
+}
